@@ -1,0 +1,164 @@
+D:\Work\B\Lab2\Lab2\bin\ApplicationInsights.config
+D:\Work\B\Lab2\Lab2\bin\roslyn\csc.exe
+D:\Work\B\Lab2\Lab2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Work\B\Lab2\Lab2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work\B\Lab2\Lab2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Work\B\Lab2\Lab2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Work\B\Lab2\Lab2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Work\B\Lab2\Lab2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Work\B\Lab2\Lab2\bin\roslyn\System.Collections.Immutable.dll
+D:\Work\B\Lab2\Lab2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Work\B\Lab2\Lab2\bin\roslyn\vbc.exe
+D:\Work\B\Lab2\Lab2\bin\roslyn\VBCSCompiler.exe
+D:\Work\B\Lab2\Lab2\bin\roslyn\VBCSCompiler.exe.config
+D:\Work\B\Lab2\Lab2\bin\Lab2.dll.config
+D:\Work\B\Lab2\Lab2\bin\Lab2.dll
+D:\Work\B\Lab2\Lab2\bin\Lab2.pdb
+D:\Work\B\Lab2\Lab2\bin\Antlr3.Runtime.dll
+D:\Work\B\Lab2\Lab2\bin\EntityFramework.dll
+D:\Work\B\Lab2\Lab2\bin\EntityFramework.SqlServer.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.Web.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.WindowsServer.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.ApplicationInsights.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.Google.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Web.Infrastructure.dll
+D:\Work\B\Lab2\Lab2\bin\Newtonsoft.Json.dll
+D:\Work\B\Lab2\Lab2\bin\Owin.dll
+D:\Work\B\Lab2\Lab2\bin\System.Web.Helpers.dll
+D:\Work\B\Lab2\Lab2\bin\System.Web.Mvc.dll
+D:\Work\B\Lab2\Lab2\bin\System.Web.Optimization.dll
+D:\Work\B\Lab2\Lab2\bin\System.Web.Razor.dll
+D:\Work\B\Lab2\Lab2\bin\System.Web.WebPages.Deployment.dll
+D:\Work\B\Lab2\Lab2\bin\System.Web.WebPages.dll
+D:\Work\B\Lab2\Lab2\bin\System.Web.WebPages.Razor.dll
+D:\Work\B\Lab2\Lab2\bin\WebGrease.dll
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.Web.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AI.WindowsServer.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.ApplicationInsights.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Work\B\Lab2\Lab2\bin\System.Web.Helpers.xml
+D:\Work\B\Lab2\Lab2\bin\System.Web.Mvc.xml
+D:\Work\B\Lab2\Lab2\bin\System.Web.Optimization.xml
+D:\Work\B\Lab2\Lab2\bin\System.Web.Razor.xml
+D:\Work\B\Lab2\Lab2\bin\System.Web.WebPages.xml
+D:\Work\B\Lab2\Lab2\bin\System.Web.WebPages.Deployment.xml
+D:\Work\B\Lab2\Lab2\bin\System.Web.WebPages.Razor.xml
+D:\Work\B\Lab2\Lab2\bin\Antlr3.Runtime.pdb
+D:\Work\B\Lab2\Lab2\bin\Newtonsoft.Json.xml
+D:\Work\B\Lab2\Lab2\bin\EntityFramework.xml
+D:\Work\B\Lab2\Lab2\bin\EntityFramework.SqlServer.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.Google.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Work\B\Lab2\Lab2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Work\B\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\Work\B\Lab2\Lab2\obj\Debug\Lab2.dll
+D:\Work\B\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\ApplicationInsights.config
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\csc.exe
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\vbc.exe
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Lab2.dll.config
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Lab2.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Lab2.pdb
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Antlr3.Runtime.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\EntityFramework.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.Web.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Newtonsoft.Json.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Owin.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.Helpers.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.Mvc.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.Optimization.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.Razor.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.WebPages.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\WebGrease.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.Web.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.Helpers.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.Mvc.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.Optimization.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.Razor.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.WebPages.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Newtonsoft.Json.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\EntityFramework.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\obj\Debug\Lab2.dll
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\obj\Debug\Lab2.pdb
+C:\Users\admin\Documents\ASP.NET MVC BCIT 2017\Lesson02\Lab\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache

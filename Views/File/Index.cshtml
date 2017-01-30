@@ -1,0 +1,18 @@
+﻿
+@model string[]
+
+
+@{
+
+    ViewBag.Title = "Index";
+}
+
+<h2>Files</h2>
+
+<ul>
+    @foreach (var i in Model)
+    {
+        <li>@Html.ActionLink(i, "DisplayContent", new { id = i })</li>
+    }
+
+</ul>
